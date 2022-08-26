@@ -9,41 +9,46 @@ const questions = [
     message: "What is the name of your project?",
     name: "title",
   },
-  //   {
-  //     type: "input",
-  //     message: "What is the description of your project?",
-  //     name: "description",
-  //   },
-  //   {
-  //     type: "input",
-  //     message: "What are the installation instructions?",
-  //     name: "install",
-  //   },
-  //   {
-  //     type: "input",
-  //     message: "What is the name of your project?",
-  //     name: "title",
-  //   },
-  //   {
-  //     type: "input",
-  //     message: "What is the usage information?",
-  //     name: "usage",
-  //   },
-  //   {
-  //     type: "input",
-  //     message: "What are the contribution guidelines?",
-  //     name: "contribution",
-  //   },
-  //   {
-  //     type: "input",
-  //     message: "What are the test instructions?",
-  //     name: "test",
-  //   },
-  //   {
-  //     type: "input",
-  //     message: "What is your github username?",
-  //     name: "github",
-  //   },
+  {
+    type: "input",
+    message: "What is the description of your project?",
+    name: "description",
+  },
+  {
+    type: "input",
+    message: "What are the installation instructions?",
+    name: "install",
+  },
+  {
+    type: "input",
+    message: "What is the name of your project?",
+    name: "title",
+  },
+  {
+    type: "input",
+    message: "What is the usage information?",
+    name: "usage",
+  },
+  {
+    type: "input",
+    message: "What are the contribution guidelines?",
+    name: "contribution",
+  },
+  {
+    type: "input",
+    message: "What are the test instructions?",
+    name: "test",
+  },
+  {
+    type: "input",
+    message: "What is your github username?",
+    name: "github",
+  },
+  {
+    type: "input",
+    message: "What is your email?",
+    name: "email",
+  },
   {
     type: "list",
     message: "What license are you using?",
