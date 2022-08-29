@@ -15,7 +15,7 @@ function renderLicenseBadge(license) {
     if (license === "None of the above") {
       return "";
     } else if (license === licenses[i]) {
-      return licenseBadges[i];
+      return "![License: " + license[i] + "](" + licenseBadges[i] + ")";
     }
   }
 }
@@ -32,11 +32,14 @@ function renderLicenseBadge(license) {
 function generateMarkdown(data) {
   return (
     `
-  # ${data.title}
-![License: ${data.license}](` +
+  # ${data.title}` +
+    ` 
+  
+  ` +
     renderLicenseBadge(`${data.license}`) +
-    `)
-  ## Description
+    `
+
+## Description
   
 ${data.description}
 
