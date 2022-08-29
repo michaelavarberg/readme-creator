@@ -27,6 +27,7 @@ This application will create your README after taking a few inputs from the user
   ## Usage
     
 Simply insert your description, contributors, license and other information into the terminal. This app will use that information to create a README for you!
+Walk-through video link:
 https://drive.google.com/file/d/1T6bIOehMQYjjk--jqONrNPhKfKHFRHwt/view
 
   ## License
