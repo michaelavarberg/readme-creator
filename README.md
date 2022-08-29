@@ -1,6 +1,6 @@
 
   # README.md Creator
-![License: None of the above]()
+  
   ## Description
   
 This application will create your README after taking a few inputs from the user.
