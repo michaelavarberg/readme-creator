@@ -31,7 +31,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "What are the contribution guidelines?",
+    message: "What is your contribution information?",
     name: "contribution",
   },
   {
@@ -53,7 +53,15 @@ const questions = [
     type: "list",
     message: "What license are you using?",
     name: "license",
-    choices: ["Mozilla", "None of the above"],
+    choices: [
+      "Apache",
+      "GitHub",
+      "GitLab",
+      "Bower",
+      "Cocoapods",
+      "NPM",
+      "None of the above",
+    ],
   },
 ];
 

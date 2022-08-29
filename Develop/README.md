@@ -1,33 +1,49 @@
-# Chore-ganizer
 
-## Description
+  # askdjfkla
+![License: Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  ## Description
+  
+as;ldkfjksadljf
 
-Have you ever been overwhelmed by the amount of chores to be done? This app is for you! Store all your current chores in one place and allow this site to gamify cleaning! After a few user inputs, this app will randomly assign you a chore. When completed, this chore is deleted from your todos!
+  ## Table of Contents
+  
+  -[Installation](#installation)   
 
-## Table of Contents
+  -[Usage](#usage) 
 
--[Installation](#installation) -[Usage](#usage) -[License](#license) -[Contributing](#contributing) -[Tests](#tests) -[Questions](#questions)
+  -[License](#license)  
 
-## Installation
+  -[Contributing](#contributing)   
 
-Click the start button to begin.
+  -[Tests](#tests)   
 
-## Usage
+  -[Questions](#questions)  
+  
+  
+  ## Installation
+  
+  asldkfjasdklfj
 
-After clicking the start button, answer each prompt on your screen.
+  ## Usage
+    
+a;sldfkjlasdkjf
 
-## License
+  ## License
+  
+  This application is covered under Apache.
 
-None of the above
-
-## Contributing
+  ## Contributing
+  
+  My Collaborators:
 
 undefined
 
-## Tests
+  ## Tests
 
-N/A
+asdkfja;sdlkjf
 
-## Questions
+  ## Questions
 
-michaelavarberg
+f you have any questions, please do not hesitate to reach out! 
+GitHub: [github.com/;aslkfjlksad;jf](https://github.com/;aslkfjlksad;jf)
+Email: [;aslkdfjlk;asdjf](mailto:;aslkdfjlk;asdjf)
