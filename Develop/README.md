@@ -1,9 +1,9 @@
 
-  # askdjfkla
-![License: Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  # Chore-ganizer
+![License: Bower](https://img.shields.io/badge/License-MIT-green.svg)
   ## Description
   
-as;ldkfjksadljf
+Do you have way too many chores to keep track of? Are you unmotivated to begin? Use Chore-ganizer to organize your chores and randomly complete them throughout your day. 
 
   ## Table of Contents
   
@@ -22,15 +22,15 @@ as;ldkfjksadljf
   
   ## Installation
   
-  asldkfjasdklfj
+  Requirements: python
 
   ## Usage
     
-a;sldfkjlasdkjf
+Simply answer each prompt to create chores and then randomly select one from your list. Once completed, choose 
 
   ## License
   
-  This application is covered under Apache.
+  This application is covered under Bower.
 
   ## Contributing
   
@@ -40,10 +40,10 @@ undefined
 
   ## Tests
 
-asdkfja;sdlkjf
+N/A
 
   ## Questions
 
 f you have any questions, please do not hesitate to reach out! 
-GitHub: [github.com/;aslkfjlksad;jf](https://github.com/;aslkfjlksad;jf)
-Email: [;aslkdfjlk;asdjf](mailto:;aslkdfjlk;asdjf)
+GitHub: [github.com/michaelavarberg](https://github.com/michaelavarberg)
+Email: [michaela.varberg@gmail.com](mailto:michaela.varberg@gmail.com)
