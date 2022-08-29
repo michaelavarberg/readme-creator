@@ -1,9 +1,9 @@
 
-  # Chore-ganizer
-![License: Bower](https://img.shields.io/badge/License-MIT-green.svg)
+  # chore
+![License: Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
   ## Description
   
-Do you have way too many chores to keep track of? Are you unmotivated to begin? Use Chore-ganizer to organize your chores and randomly complete them throughout your day. 
+nothing
 
   ## Table of Contents
   
@@ -22,28 +22,28 @@ Do you have way too many chores to keep track of? Are you unmotivated to begin? 
   
   ## Installation
   
-  Requirements: python
+  ok
 
   ## Usage
     
-Simply answer each prompt to create chores and then randomly select one from your list. Once completed, choose 
+laksslak
 
   ## License
   
-  This application is covered under Bower.
+  This application is covered under Apache.
 
   ## Contributing
   
   My Collaborators:
 
-undefined
+nonon
 
   ## Tests
 
-N/A
+fjfjfj
 
   ## Questions
 
-f you have any questions, please do not hesitate to reach out! 
-GitHub: [github.com/michaelavarberg](https://github.com/michaelavarberg)
-Email: [michaela.varberg@gmail.com](mailto:michaela.varberg@gmail.com)
+If you have any questions, please do not hesitate to reach out! 
+GitHub: [github.com/dkdkkd](https://github.com/dkdkkd)
+Email: [michaela](mailto:michaela)
