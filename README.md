@@ -30,7 +30,7 @@ Simply insert your description, contributors, license and other information into
 
   ## License
   
-  This application is covered under None of the above.
+ N/A
 
   ## Contributing
   
